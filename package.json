@@ -3,20 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=16.0.0"
+    "node": "14.0.0"
   },
   "dependencies": {
     "@3rdweb/hooks": "^1.6.0",
     "@3rdweb/sdk": "^1.27.1",
-    "audit": "^0.0.6",
-    "caniuse": "^0.1.3",
-    "caniuse-lite": "^1.0.30001313",
     "dotenv": "^10.0.0",
     "ethers": "^5.5.2",
-    "next": "^12.1.1-canary.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
